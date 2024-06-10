@@ -43,7 +43,7 @@ Once you’re in the directory, use the `java -jar` command to open the JAR file
 java -jar GuardLock_VPN-1.0.jar
 ```
 
-If you’ve renamed the JAR file, be sure to replace GuardLock_VPN-1.0.jar with the file’s new name.
+If you’ve renamed the JAR file, be sure to replace `GuardLock_VPN-1.0.jar` with the file’s new name.
 
 ## License
 
