@@ -47,7 +47,7 @@ If you’ve renamed the JAR file, be sure to replace `GuardLock_VPN-1.0.jar` wit
 
 ## License
 
-GuardLock VPN is released under the GNU General Public License (GPL). Feel free to modify the code and distribute forks of the software, provided you distribute your forks for free and make their source code publicly available.
+GuardLock VPN is released under the GNU General Public License (GPL). Feel free to modify the code and distribute forks of the software, provided you distribute your forks under the GPL license as well.
 
 ---
 
